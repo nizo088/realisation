@@ -1,0 +1,13 @@
+let pizza = 50;
+let burger = 30;
+console.log( pizza > burger );
+console.log( pizza === burger );
+console.log( pizza !== burger );
+let shawarma = pizza >= burger;
+console.log(shawarma);
+let sandwish = true;
+let salad = false;
+let result = sandwish===true && salad===false;
+console.log(result);
+let enter =sandwish===true || salad===false;
+console.log(enter);
