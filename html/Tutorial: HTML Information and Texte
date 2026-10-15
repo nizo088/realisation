@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hello world</title>
+
+</head>
+<body>
+   
+     <h1>WELCOME TO MY HTML WEB</h1>
+<P> 
+    <STrong>devleper name is nizar </STrong>
+</P>
+     <p> welcome to the web about cars and modification to</p>
+<p>
+     <cite> tanger is the city of love </cite>
+</p>
+  <main>
+  <section class="article-body">
+    <p> i am devloper web in solicode</p>
+        </section>
+    </main>
+   <ul class="article-list">
+<li> realisation app</li>
+ </ul>
+
+</html>
