@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hello world</title>
+
+</head>
+<body>
+   
+     <hr>
+    <h1>WELCOME TO MY HTML WEB </h1>
+<P> 
+    <STrong>devleper name is nizar </STrong>
+</P>
+     <p> this my practice web html</p>
+<p>
+     <cite> about me: </cite>
+</p>
+  <main>
+  <section class="article-body">
+    <p> THIS IS MY SOCIAL MEDIA :</p>
+<a href="https://www.instagram.com/_niz.ar__/">visit instagram </a><hr><hr>
+<a href="index.html">cliceto my projrct</a> 
+       
+</section>
+    </main>
+   <ul class="article-list">
+<li> realisation app</li>
+<li> verification d'application</li>
+<li> devloper web</li>
+ </ul>
+
+</html>
