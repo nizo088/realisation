@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+    <title>web develeper </title>
+    <link rel="stylesheet" href="synthesis.css">
+</head>
+<body>
+    <article>
+<header class="article-header<">
+<span class="article-meta">development</span>
+<h1>devlopment web is a futurest job </h1>
+<img src="image.jpeg" alt=""id="photo1">
+<h2>nizar el motaouakel </h2>
+<p>i am a student in solicode </p>
+<div class="article-meta">
+<div class="article-author">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW6QlIdmRxuH4Z_P1JVOVfXsgATaXfuSG0PSFLeZd1OQ&s=10" alt=""id="avatar">
+<div>
+<strong> nizar el motaouakel</strong>
+<span> name if creator</span>
+</div>
+</div>
+<time datetime="20/10/2026">20 october 2026</time>
+</div>
+   </header>
+     <figure class="article-cover">
+<img src="https://th.bing.com/th/id/OIP.liTnkAsc8HgPw4nDCgD9nQHaEK?w=293&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="backround">
+</figure>
+<main class="article-main">
+            <section class="article-body">
+                <h2>The role of the developer</h2>
+                <p>The developer creates applications. They transform a requirement into an IT solution.</p>
+                
+                <h3>Building the application</h3>
+                <figure class="article-figure">
+                    <img src="image.jpeg" alt="Developer writing code" id="photo">
+                    <figcaption>The developer writes the code for the application.</figcaption>
+                </figure>
+                
+                <blockquote class="article-blockquote">
+                    <p>The developer builds the application based on the requirements. They use technologies such as HTML, CSS, and JavaScript.</p>
+                    <cite>— Developer profession</cite>
+                </blockquote>
+</body> 
