@@ -1,0 +1,9 @@
+.title {
+color: blue;
+}
+h1,h2,h3 {
+color: navy ;
+}
+.article-body p {
+color: darkred;
+}
